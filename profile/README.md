@@ -11,9 +11,6 @@ Cada experimento é independente, cabe em até 15 arquivos e 1500 linhas, roda e
 ## Experimentos
 
 <!-- experimentos:inicio -->
-- **2026-003** [Laboratório de Rate Limit](https://github.com/Fox-Weekend-Lab/exp-2026-003) - (sem categoria)
-- **2026-002** [API Contract Diff](https://github.com/Fox-Weekend-Lab/exp-2026-002) - (sem categoria)
-- **2026-001** [Agente de Previsão com Ferramenta Declarada](https://github.com/Fox-Weekend-Lab/exp-2026-001) - (sem categoria)
 - **2026-006** [Extrator Guiado por Esquema](https://github.com/Fox-Weekend-Lab/exp-2026-006-extrator-guiado-por-esquema) - agente-llm
 - **2026-005** [Radar de Feriados e Pontes](https://github.com/Fox-Weekend-Lab/exp-2026-005-radar-feriados-pontes) - integracao-api-externa
 - **2026-004** [Validador de Exemplos de README](https://github.com/Fox-Weekend-Lab/exp-2026-004-validador-exemplos-readme) - automacao
