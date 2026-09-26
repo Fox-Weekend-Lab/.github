@@ -11,6 +11,7 @@ Cada experimento é independente, cabe em até 15 arquivos e 1500 linhas, roda e
 ## Experimentos
 
 <!-- experimentos:inicio -->
+- **2026-011** [Catálogo de Leituras por ISBN](https://github.com/Fox-Weekend-Lab/exp-2026-011-catalogo-leituras-isbn) - integracao-api-externa
 - **2026-008** [Organizador de Anexos por Regras](https://github.com/Fox-Weekend-Lab/exp-2026-008-organizador-anexos-regras) - ferramenta-dev-offline
 - **2026-006** [Extrator Guiado por Esquema](https://github.com/Fox-Weekend-Lab/exp-2026-006-extrator-guiado-por-esquema) - agente-llm
 - **2026-005** [Radar de Feriados e Pontes](https://github.com/Fox-Weekend-Lab/exp-2026-005-radar-feriados-pontes) - integracao-api-externa
