@@ -11,6 +11,7 @@ Cada experimento é independente, cabe em até 15 arquivos e 1500 linhas, roda e
 ## Experimentos
 
 <!-- experimentos:inicio -->
+- **2026-014** [Gerador de Roteiros de Retrospectiva](https://github.com/Fox-Weekend-Lab/exp-2026-014-gerador-roteiros-retrospectiva) - ferramenta-dev-offline
 - **2026-013** [Consolidador de Recibos por Pasta](https://github.com/Fox-Weekend-Lab/exp-2026-013-consolidador-recibos-pasta) - ferramenta-dev-offline
 - **2026-012** [Revisor de Conflitos entre ADRs](https://github.com/Fox-Weekend-Lab/exp-2026-012-revisor-conflitos-adrs) - agente-llm
 - **2026-011** [Catálogo de Leituras por ISBN](https://github.com/Fox-Weekend-Lab/exp-2026-011-catalogo-leituras-isbn) - integracao-api-externa
