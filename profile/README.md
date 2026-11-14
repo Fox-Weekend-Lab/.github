@@ -11,6 +11,7 @@ Cada experimento é independente, cabe em até 15 arquivos e 1500 linhas, roda e
 ## Experimentos
 
 <!-- experimentos:inicio -->
+- **2026-018** [Gerador de Relatório de Cobertura de Decisões](https://github.com/Fox-Weekend-Lab/exp-2026-018-gerador-relatorio-decisoes) - ferramenta-dev-offline
 - **2026-017** [Montador de Checklist de Entrega](https://github.com/Fox-Weekend-Lab/exp-2026-017-montador-checklist-entrega) - ferramenta-dev-offline
 - **2026-016** [Classificador de Feedback com Fila de Revisão](https://github.com/Fox-Weekend-Lab/exp-2026-016-classificador-feedback-fila-revisao) - agente-llm
 - **2026-015** [Comparador de Índices Econômicos](https://github.com/Fox-Weekend-Lab/exp-2026-015-comparador-indices-economicos) - integracao-api-externa
